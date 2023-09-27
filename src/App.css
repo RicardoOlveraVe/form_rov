@@ -1,0 +1,24 @@
+header{
+    margin: 20px;
+}
+.usercard__general{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.form__btn{
+    width: 100%;
+    max-width: 250px;
+    position: absolute;
+    font-size: 1.1rem;
+    top: 1em;
+    right: 1.5em;
+    cursor: pointer;
+    margin-bottom: 2em;
+    background-color: #9C8EEB;
+    border-radius: 0.5em;
+    font-weight: 300;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+}
